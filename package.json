@@ -1,0 +1,19 @@
+{
+  "name": "pdrules",
+  "version": "0.0.1",
+  "description": "PagerDuty Rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Martin Stone",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "mailgun-js": "^0.10.1",
+    "mustache": "^2.3.0",
+    "request": "^2.81.0"
+  }
+}
