@@ -77,7 +77,7 @@ var templates = {
 
 var recipients = [
 	{
-		"addresses": [ "martindstone@example.com", "martin@pagerduty.com" ],
+		"addresses": [ "martindstone@me.com", "martin@pagerduty.com" ],
 		"template": templates["martin"]
 	},
 	{
